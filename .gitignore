@@ -1,0 +1,11 @@
+/.gradle/
+/bin/
+/build/
+/target/
+.settings
+/.classpath
+/.project
+.idea/
+out/
+/deploy/maps_secrets
+report.json
